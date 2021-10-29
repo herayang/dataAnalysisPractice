@@ -3,13 +3,13 @@
 
  # Overview 
 
-This is a project to practice answering questions and plotting data from dataFrame using Python. I've used matplotlib and seaborn for plotting the data. Please check pokemon_analysis.md for summary of what I have learned; codes used to find the answers can be found in the pkmnanaylsis.py file. 
+This is a project to practice answering questions and plotting data from dataFrame using Python. I've used matplotlib and seaborn for plotting the data. Please check pokemon_analysis.pdf for summary of what I have learned; codes used to find the answers can be found in the pkmnanaylsis.py file. 
 
 Dataset:  [The World of Pokemons](https://www.kaggle.com/hamdallak/the-world-of-pokemons)
 
 YouTube demonstration: 
 
-[Software Demo Video](https://youtu.be/5RKXBDG2eOs)
+[Software Demo Video](https://youtu.be/KZ5_pCCiqpQ)
 
 
 
